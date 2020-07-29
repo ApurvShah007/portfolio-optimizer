@@ -18,3 +18,5 @@ It also includes plots for the weights of the assets of the portfolio :
 
 <img src="weights_plot.png" />
 <br />
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.portfolio-optimizer)
