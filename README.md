@@ -26,4 +26,6 @@ It also includes plots for the weights of the assets of the portfolio :
 <img src="weights_plot.png" />
 <br />
 
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.portfolio-optimizer)
