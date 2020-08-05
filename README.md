@@ -12,20 +12,27 @@
 
 A collections of various computational methods to analyze and optimize a user's investment portfolio using Modern Portfolio Theory and optimizing various factors such as Returns, Sharpe Ratio and Risk.
 
-Also included many plots to help visualize the portfolio including the Efficient Frontier Plot :
+<details>
+<summary>
+  Efficient Frontier Plot
+</summary>
+
 <br />
 
 <img src="EF_plot.png" />
 <br />
-<br />
-<br />
+</details>
 
-It also includes plots for the weights of the assets of the portfolio :
-<br />
+<details>
+<summary>
+  Plot for the asset weights :
+</summary>
 
+<br />
 <img src="weights_plot.png" />
 <br />
-
+</details>
+ 
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.portfolio-optimizer)
