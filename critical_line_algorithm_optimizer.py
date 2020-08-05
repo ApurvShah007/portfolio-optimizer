@@ -82,8 +82,10 @@ def omptimizePortCLA(port, weights, start, plot = False, short = False, printBas
         plot_ef(cla)
         plotting.plot_weights(w)
 
-# an Example FAANG portfolio with equal weights
-portfolio = ['FB', "AAPL", "AMZN", 'NFLX', 'GOOG']
-weights = np.array([0.2,0.2,0.2,0.2,0.2])
-start = '2013-01-01'
-omptimizePortCLA(portfolio, weights, start)
+#an Example FAANG portfolio with equal weights
+# portfolio = ['FB', "AAPL", "AMZN", 'NFLX', 'GOOG']
+# weights = np.array([0.2,0.2,0.2,0.2,0.2])
+# start = '2013-01-01'
+
+
+
