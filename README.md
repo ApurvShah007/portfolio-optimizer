@@ -3,6 +3,13 @@
  <h2 align="center"> Portfolio Optimizer</h2>
 </p>
 
+![Author](https://img.shields.io/badge/author-ApurvShah007-green)
+![Last Commit](https://img.shields.io/github/last-commit/ApurvShah007/portfolio-optimizer)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
+![Issues](https://img.shields.io/github/issues/ApurvShah007/portfolio-optimizer)
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
 A collections of various computational methods to analyze and optimize a user's investment portfolio using Modern Portfolio Theory and optimizing various factors such as Returns, Sharpe Ratio and Risk.
 
 Also included many plots to help visualize the portfolio including the Efficient Frontier Plot :
@@ -18,5 +25,7 @@ It also includes plots for the weights of the assets of the portfolio :
 
 <img src="weights_plot.png" />
 <br />
+
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.portfolio-optimizer)
